@@ -1,0 +1,7 @@
+streamlit>=1.40,<2.0
+ultralytics==8.4.42
+opencv-python-headless>=4.8,<5
+pillow>=10,<13
+pandas>=2,<3
+numpy>=1.26,<3
+requests>=2.31,<3
